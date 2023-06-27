@@ -3,3 +3,4 @@ ssh-keygen -t ed25519 -C "gowrav.scp@star-knowledge.org"   ///create key
 ls -al ~/.ssh   ///see key
 clip < ~/.ssh/id_ed25519.pub  ///copy key
 
+new line added
