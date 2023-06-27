@@ -2,6 +2,6 @@ git sample text inside
 ssh-keygen -t ed25519 -C "gowrav.scp@star-knowledge.org"   ///create key
 ls -al ~/.ssh   ///see key
 clip < ~/.ssh/id_ed25519.pub  ///copy key
-line 5 conflict
+line 5 conflict new text
 new line added
 
